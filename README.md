@@ -1,6 +1,6 @@
 # ⛽ Ethereum Gas Tracker (Windows Taskbar Widget)
 
-![Version](https://img.shields.io/github/v/release/Software/Ethereum_Gas_Tracker?label=version&color=blue)
+![Version](https://img.shields.io/github/v/release/Ethereum_Gas_Tracker?label=version&color=blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
 ![License](https://img.shields.io/badge/license-Freeware-green)
 
