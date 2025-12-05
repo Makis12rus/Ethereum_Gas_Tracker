@@ -1,6 +1,6 @@
 # ⛽ Ethereum Gas Tracker (Windows Taskbar Widget)
 
-![Version](https://img.shields.io/github/v/release/Ethereum_Gas_Tracker?label=version&color=blue)
+![Version](https://img.shields.io/github/v/release/Makis12rus/Ethereum_Gas_Tracker?label=version&color=blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%2F11-blue)
 ![License](https://img.shields.io/badge/license-Freeware-green)
 
@@ -28,7 +28,7 @@
 
 Этот репозиторий служит для распространения готовых версий программы.
 
-1.  Перейдите в раздел **[Releases](https://github.com/Software/Ethereum_Gas_Tracker/releases)** справа.
+1.  Перейдите в раздел **[Releases](https://github.com/Makis12rus/Ethereum_Gas_Tracker/releases)** справа.
 2.  Скачайте последнюю версию файла `Ethereum Gas Tracker.exe`.
 3.  **Запуск:** Программа портативная (Portable) — просто запустите скачанный файл. Установка не требуется.
 4.  *(Опционально)* При первом запуске мастер настройки поможет вам выбрать режим работы.
