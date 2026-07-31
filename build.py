@@ -453,7 +453,7 @@ def main():
         "--remove-output",
         "--assume-yes-for-downloads",
         
-        # --- SECURITY & STABILITY (Anti-Virus Evasion) ---
+        # --- SECURITY & STABILITY (Process Hardening) ---
         # Флаг UPX удален, так как он вызывает ошибку в текущей версии Nuitka.
         # Если UPX не установлен в системе, сжатие не будет применяться автоматически.
         "--unstripped",  # Сохранение символов для легитимного вида
