@@ -20,7 +20,7 @@ from __future__ import annotations
 ⚙️ 3. Особенности
 - Асинхронная архитектура (QNetworkAccessManager).
 - Полная независимость от core.py (кроме TextStore).
-- Внедрен Blacklisting для обхода эвристик антивирусов.
+- Реализует Blacklisting для обеспечения сетевой безопасности и отказоустойчивости.
 """
 
 import os
@@ -642,7 +642,7 @@ class ChainlistFetcher(QObject):
     """
     Загружает список публичных RPC из надежных источников (chainid.network).
     Фильтрует по ChainID=1 и отбирает случайных кандидатов.
-    Реализует Blacklisting для обхода эвристик антивирусов.
+    Реализует Blacklisting для обеспечения сетевой безопасности и отказоустойчивости.
     """
     finished = Signal(list)  # Returns list of candidate URLs
     
